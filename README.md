@@ -79,7 +79,7 @@ En la pantalla 'Mis datos' se encuentr√°n los datos del usuario, en donde tambi√
 
 <div>
   <img src="https://user-images.githubusercontent.com/67331469/119238532-33a59c00-bb19-11eb-8934-239d992f7752.jpg" width="32%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119238533-343e3280-bb19-11eb-817c-d77e530825cb.jpg" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238533-343e3280-bb19-11eb-817c-d77e530825cb.jpg" width="33%"/>
   <img src="https://user-images.githubusercontent.com/67331469/119238531-330d0580-bb19-11eb-9079-3d820ed612cc.jpg" width="32%"/>
 </div>
 
@@ -97,9 +97,9 @@ En la pantalla 'Mis datos' se encuentr√°n los datos del usuario, en donde tambi√
 
 ##### Pantallas de cargar, cambiar y enviar dinero.
 <div>
-  <img src="https://user-images.githubusercontent.com/67331469/119238426-a95d3800-bb18-11eb-8e71-d96a3be77e6e.jpg" width="33%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238426-a95d3800-bb18-11eb-8e71-d96a3be77e6e.jpg" width="32%"/>
   <img src="https://user-images.githubusercontent.com/67331469/119238427-a95d3800-bb18-11eb-9243-a3fa6ab2384d.jpg" width="33%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119238428-a9f5ce80-bb18-11eb-82ec-1307af93c1ff.jpg" width="33%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238428-a9f5ce80-bb18-11eb-82ec-1307af93c1ff.jpg" width="32%"/>
 </div>
 
 
