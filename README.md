@@ -68,7 +68,7 @@ Pantalla de estadísticas, lista y grafica las compras, transferencias, cargas y
 Lista las transacciones del usuario y le permite acceder al detalle de cada una.
 ###### Verify
 Pantalla de verificación, es la pantalla a continuación de la de registro y su funcionalidad es que el usuario ingrese el código enviado a su correo electronico para verificar su cuenta.
-### UserData
+###### UserData
 En la pantalla 'Mis datos' se encuentrán los datos del usuario, en donde también puede modificarlos.
 
 
@@ -121,6 +121,8 @@ En la pantalla 'Mis datos' se encuentrán los datos del usuario, en donde tambi�
 
 
 ## ✒️ Autores
+
+TreeBank fue creado con metodología SCRUM por:
 
 * Agustín Tiseira
 * Ariel Salcedo
