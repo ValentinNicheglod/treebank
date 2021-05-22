@@ -75,10 +75,12 @@ En la pantalla 'Mis datos' se encuentrán los datos del usuario, en donde tambi�
 ## 🖼️ Imágenes del proyecto...
 
 ##### Pantallas de incio, inicio de sesión y registro.
+
+
 <div>
-  <img src="https://user-images.githubusercontent.com/67331469/119238532-33a59c00-bb19-11eb-8934-239d992f7752.jpg" width="33%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119238533-343e3280-bb19-11eb-817c-d77e530825cb.jpg" width="33%"/>
-  <img src="https://user-images.githubusercontent.com/67331469/119238531-330d0580-bb19-11eb-9079-3d820ed612cc.jpg" width="33%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238532-33a59c00-bb19-11eb-8934-239d992f7752.jpg" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238533-343e3280-bb19-11eb-817c-d77e530825cb.jpg" width="32%"/>
+  <img src="https://user-images.githubusercontent.com/67331469/119238531-330d0580-bb19-11eb-9079-3d820ed612cc.jpg" width="32%"/>
 </div>
 
 
