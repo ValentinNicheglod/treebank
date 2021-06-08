@@ -30,7 +30,7 @@ Base de datos gestionada en MySQL, utilizando Sequelize como ORM.
 ### Backend
 Backend programado en *NodeJS* y Express con deploy realizado en Heroku.
 * La autenticación de los usuarios se realiza con Passport y JSONWebToken.
-* La contraseña del usuario es encriptada mediante con bcrypt (mediante hash y salt).
+* La contraseña del usuario es encriptada con bcrypt (mediante hash y salt).
 
 
 ### Frontend
